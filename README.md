@@ -1,6 +1,10 @@
 📂 Portfolio Website
 
 This repository contains the code for my personal portfolio website. The website is built using HTML, CSS, Bootstrap, JavaScript, and various plugins to showcase my skills, projects, and professional background.
+
+![Screenshot 2024-06-10 175609](https://github.com/Ruchapurohit/Portfolio/assets/146411434/09db4db5-9391-43e9-86ee-bd3a745c7d95)
+
+
 📋 Table of Contents :
 
     📖 Description
